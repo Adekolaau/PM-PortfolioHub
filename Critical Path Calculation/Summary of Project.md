@@ -3,6 +3,7 @@
 **Project Overview:**
 
 *Objective:* Construct a residential building.
+
 *Activities:* Managed the project from site preparation to finishing touches.
 
 **Critical Path Method (CPM):**
@@ -20,4 +21,4 @@
 - Managed project timelines effectively.
 - Adjusted schedules dynamically based on task dependencies and progress.
 
-This project highlights my skills in project management, specifically my ability to use Microsoft Excel for identifying the critical path, and ensuring timely completion
+This project highlights my skills in project management, specifically my ability to use Microsoft Excel to identify the critical path and ensure timely completion

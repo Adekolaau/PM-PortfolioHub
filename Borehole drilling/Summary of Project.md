@@ -46,13 +46,13 @@
 - Conflict of Interest (Initial Consultation):
     - Likelihood: 2, Severity: 2, Risk Matrix: 4, Contingency Plan: Consult Community Leaders.
 - Community Resistance (Site Reconnaissance):
-    -Likelihood: 3, Severity: 4, Risk Matrix: 12, Contingency Plan: Employ Local Workforce.
+    - Likelihood: 3, Severity: 4, Risk Matrix: 12, Contingency Plan: Employ Local Workforce.
 - Data Unavailability (Historical Data Review):
     - Likelihood: 4, Severity: 3, Risk Matrix: 12, Contingency Plan: Conduct Ground Truthing.
 - Equipment Malfunction (Soil Sampling):
     - Likelihood: 2, Severity: 1, Risk Matrix: 2, Contingency Plan: Maintain Backup Equipment.
 - Funding Delays (Mobilization):
-    -Likelihood: 5, Severity: 5, Risk Matrix: 25, Contingency Plan: Issue Constant Reminders.
+    - Likelihood: 5, Severity: 5, Risk Matrix: 25, Contingency Plan: Issue Constant Reminders.
 
 **Legend:**
 

@@ -64,4 +64,5 @@
 - Very Low: Manage by normal procedures.
 
 **Summary:**
+
 This project exemplifies my ability to manage complex projects, engage stakeholders, perform detailed site assessments, and address risks effectively. It showcases my proficiency in using Microsoft Project and Excel for project management and risk assessment, respectively, making me a valuable asset for similar future projects.
